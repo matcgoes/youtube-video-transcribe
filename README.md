@@ -42,7 +42,7 @@ Este projeto é uma aplicação web desenvolvida com Streamlit que permite resum
     GOOGLE_API_KEY=your_google_api_key
     ```
 
-## 🚀 Uso
+## 🚀 Uso 
 
 1. Execute a aplicação:
     ```bash
